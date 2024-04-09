@@ -1,0 +1,1 @@
+Testing .gitignore file together with a secrets.txt that should not be uploaded
