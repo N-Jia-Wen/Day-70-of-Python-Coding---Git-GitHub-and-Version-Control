@@ -1,2 +1,1 @@
-Testing text file 1
-Added another line of text to check sync with remote repo
+Branch test placeholder text for the experimental-plot branch
